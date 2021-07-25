@@ -16,6 +16,7 @@
 ## :sparkles:Find me here, or want to say Hi!:sparkles:
 - You can see my LinkedIn profile via [here!](https://www.linkedin.com/in/phuong-anh-vu-503328160/)
 - You can view my Facebook profile via [here!](https://www.facebook.com/phuonganh.vu.97/)
+- You can view my journey learning data analytics [here!](https://www.kaggle.com/phuonganhvu)
 - You can view my Senior Design Project via YouTube [here!](https://www.youtube.com/watch?v=KbAZq5ZU__k&feature=youtu.be)
 
 
