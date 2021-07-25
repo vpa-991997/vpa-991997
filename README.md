@@ -1,7 +1,7 @@
 # Hi, I’m Anh Phuong Vu :wave:
 
 ## :sparkles:My education:sparkles: 
-- :school: I gradutated with Bachelor's in Computer Engineering :woman::computer: at University of Center Florida :palm_tree: with relevant courses in:
+- :school: I gradutated with Bachelor's in Computer Engineering :woman::computer: at University of Central Florida :palm_tree: with relevant courses in:
   * Embedded System
   * Electronics 
   * Computer Architecture
